@@ -38,6 +38,3 @@ This project enables real-time, bidirectional voice interactions with AI models 
 - Rapid prototyping for voice-enabled agents
 
 ---
-
-## 📦 Architecture Overview
-
